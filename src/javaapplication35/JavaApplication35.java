@@ -10,13 +10,13 @@ package javaapplication35;
  * @author gustaf
  */
 public class JavaApplication35 {
-//hej
+//heja
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hej");
+        System.out.println("Heja");
     }
     
 }
